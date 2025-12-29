@@ -1,0 +1,7 @@
+{
+  "name": "Cravings and More",
+  "description": "A modern, professional restaurant website for a leading Nigerian fast-food brand in Alimosho, Lagos, offering dine-in, drive-through, and delivery services.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
